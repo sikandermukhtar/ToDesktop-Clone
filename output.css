@@ -1343,8 +1343,16 @@ h1, h2, h3{
     max-height: 4rem;
   }
 
+  .md\:max-h-20{
+    max-height: 5rem;
+  }
+
   .md\:max-w-16{
     max-width: 4rem;
+  }
+
+  .md\:max-w-20{
+    max-width: 5rem;
   }
 
   .md\:text-sm{
