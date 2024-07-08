@@ -1382,6 +1382,10 @@ h1, h2, h3{
     min-height: 6rem;
   }
 
+  .lg\:min-h-28{
+    min-height: 7rem;
+  }
+
   .lg\:w-1\/2{
     width: 50%;
   }
@@ -1392,6 +1396,10 @@ h1, h2, h3{
 
   .lg\:min-w-24{
     min-width: 6rem;
+  }
+
+  .lg\:min-w-28{
+    min-width: 7rem;
   }
 
   .lg\:flex-row{
