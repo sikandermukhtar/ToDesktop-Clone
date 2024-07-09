@@ -1281,6 +1281,14 @@ h1, h2, h3{
     display: flex;
   }
 
+  .sm\:max-h-20{
+    max-height: 5rem;
+  }
+
+  .sm\:max-w-20{
+    max-width: 5rem;
+  }
+
   .sm\:flex-row{
     flex-direction: row;
   }
