@@ -6,6 +6,9 @@ module.exports = {
       minWidth: {
         '8rem': '8rem',
       },
+      minHeight: {
+        '8rem': '8rem',
+      },
       colors:{
         'primary': '#3238f2',
       },
